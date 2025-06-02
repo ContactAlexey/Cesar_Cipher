@@ -32,7 +32,7 @@
     </ul>
 
   <h2>Preview</h2>
-    <p>(You can insert a screenshot of the GUI here)</p>
+    <p><img src="https://github.com/ContactAlexey/Cesar_Cipher/blob/2b08404c25d8907508aebbc0f8bdc9392dad6b26/Cesar_Cipher.png"></p>
 
   <h2>Author</h2>
     <p>Made with Python and Tkinter</p>
